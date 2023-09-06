@@ -28,11 +28,11 @@ Instalación
 Clona o descarga este repositorio en tu máquina local.
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto.git
+    git clone https://github.com/Kendercontreras/salesanalysis
     ```
 Accede al directorio del proyecto.
     ```bash
-    cd tu-proyecto
+    cd salesanalysis
     ```
 
 Uso
@@ -48,6 +48,8 @@ ventas_divana.csv: Archivo CSV que contiene los datos de ventas.
 analisis_ventas.py: Archivo Python con el código de análisis y visualización de datos.
 
 Informe_Ejecutivo.pdf: Archivo PDF que presenta un informe ejecutivo con resultados y visualizaciones clave.
+
+Notebook_Analisis_ventas.ipynb: Cuaderno con el desarrollo del proyecto, realizado con Google Colab
 
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, sigue estos pasos:
