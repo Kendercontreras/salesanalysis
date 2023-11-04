@@ -66,3 +66,70 @@ Abre una solicitud de extracción en GitHub.
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+
+# English Version
+
+# Sales Data Analysis Project
+This project focuses on the analysis of sales data from an online store using Python, the Pandas and Matplotlib libraries, and other tools. The main goal of this project is to provide a comprehensive analysis of sales data and create informative visualizations.
+
+## Table of Contents
+Requirements
+Installation
+Usage
+Project Structure
+Contributions
+License
+
+## Requirements
+Make sure you have the following Python libraries installed:
+
+- Pandas
+- Matplotlib
+- ReportLab (for generating PDF files)
+
+You can install these libraries using pip:
+
+```bash
+pip install pandas matplotlib reportlab
+```
+
+Installation
+Clone or download this repository to your local machine.
+
+```bash
+git clone https://github.com/Kendercontreras/salesanalysis
+```
+
+Navigate to the project directory.
+
+```bash
+cd salesanalysis
+```
+
+Usage
+Place your sales data in CSV format in the "ventas_divana.csv" file at the root of the project.
+
+Open a Python environment (e.g., Jupyter Notebook) and run the provided scripts in the project to perform analysis and generate visualizations.
+
+Refer to the "Executive_Report.pdf" file for a summary of the project's key findings and visualizations.
+
+Project Structure
+sales_divana.csv: CSV file containing sales data.
+
+Sales_Analysis.py: Python file with data analysis and visualization code.
+
+Executive_Report.pdf: PDF file presenting an executive report with key results and visualizations.
+
+Notebook_Sales_Analysis.ipynb: Notebook with the project's development, created using Google Colab.
+
+Contributions
+Contributions are welcome! If you want to contribute to the project, follow these steps:
+
+Fork the repository.
+Create a new branch for your enhancement: git checkout -b my-enhancement.
+Make your changes and commit them: git commit -m "Added my enhancement".
+Push your changes: git push origin my-enhancement.
+Open a pull request on GitHub.
+
+License
+This project is under the MIT License. See the LICENSE file for more details.
