@@ -73,12 +73,12 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obten
 This project focuses on the analysis of sales data from an online store using Python, the Pandas and Matplotlib libraries, and other tools. The main goal of this project is to provide a comprehensive analysis of sales data and create informative visualizations.
 
 ## Table of Contents
-Requirements
-Installation
-Usage
-Project Structure
-Contributions
-License
+[Requirements](#Requirements)
+[Installation](#Installation)
+[Usage](#Usage)
+[Project Structure](#Project Structure)
+[Contributions](#Contributions)
+[License](#License)
 
 ## Requirements
 Make sure you have the following Python libraries installed:
